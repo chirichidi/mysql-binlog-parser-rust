@@ -1,0 +1,1 @@
+#docker run --rm --name mysql -e MYSQL_ROOT_PASSWORD=root -d -v /mnt/c/data/app/mysql-binlog-parser-rust/tests/asset:/data/lib mysql:5.7
